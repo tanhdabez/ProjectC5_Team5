@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ProjectC5_Team5",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
